@@ -1,0 +1,26 @@
+{
+  "name": "Ali Kolahdoozan",
+  "type": "CREATOR",
+  "tags": ".NET,C#,Azure,Cloud, Architecture",
+  "github": "https://github.com/AliCharper",
+  "channels": [
+    {
+      "name": "DevTo",
+      "url": "https://dev.to/alikolahdoozan"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alikolahdoozan/"
+    },
+    {
+      "name": "blog",
+      "url": "https://bugandfix.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://dev.to/alikolahdoozan"
+    }
+  ]
+}
